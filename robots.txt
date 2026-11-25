@@ -1,0 +1,3 @@
+# Client review deck — not for search engines.
+User-agent: *
+Disallow: /
